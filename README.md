@@ -18,9 +18,9 @@ je suis calme, solitaire et l'écoute des gens
 
 ## Passe-temps:
 * pc
-    video(film, serie, youtube, jeux video)
+   * video(film, serie, youtube, jeux video)
 * promenade
-    magasin et visite touristique
+   * magasin et visite touristique
 
 ## On peut toujour compter sur moi:
 motivation du groupe

@@ -14,7 +14,7 @@ je suis calme, solitaire et l'écoute des gens
 |Anniversaire    |12/05/1987    |
 |Sexe            |Masculin      |
 |Couleur préférée|Bleu          |
-|Ananas sur pizza|<ul><li>[x]oui</li></ul>; <ul><li>[ ]non</li></ul>|
+|Ananas sur pizza|<ul><li>[x] oui</li></ul>; <ul><li>[ ] non</li></ul>|
 
 ## Passe-temps:
 * pc
